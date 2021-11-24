@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1544150568 source:c:\users\roberto\desktop\utn\lab 1 - tp 2 batalla naval\batalla\main.cpp
+	<iostream>
+	<string.h>
+	"funciones.h"
+	<stdlib.h>
+	<windows.h>
+
+1544148070 c:\users\roberto\desktop\utn\lab 1 - tp 2 batalla naval\batalla\funciones.h
+	<string>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<windows.h>
+
+1544152296 source:g:\documentos\utn\lab 1 - tp 2 batalla naval\batalla\main.cpp
+	<iostream>
+	<string.h>
+	"funciones.h"
+	<stdlib.h>
+	<windows.h>
+
+1544152215 g:\documentos\utn\lab 1 - tp 2 batalla naval\batalla\funciones.h
+	<string>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<windows.h>
+
